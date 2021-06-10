@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(66, 202, 127);
+}
+
+:root{
+    --fuente1:font-family: 'Indie Flower', cursive;
+    --fuente2:font-family: 'Fjalla One', sans-serif;
+}
